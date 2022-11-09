@@ -1,0 +1,239 @@
+.main{
+    margin: 0;
+}
+.header{
+    width: 100%; 
+    height: 74px;
+    background-color: #128c7e;
+  
+  
+}
+.logo{
+    padding-left: 5%;
+    padding-top: 1%;
+    height: 14px;
+}
+.whatsapp
+{
+    margin: -60px;
+    padding-left: 10%;
+    color: #ffffff;
+}
+.option{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 20%;
+    color: #ffffff;
+}
+.globe
+{
+    margin-left: 200px;
+}
+
+
+
+.white{
+    height: 450px;
+    width: 100%;
+    background-color: white;
+   margin: 45px;
+}
+.par{
+    
+    height: 400px;
+    width: 20%;
+   
+    float:left;
+    background-color: white;
+    display:inline-block;
+    color: #1c1e21;
+    text-align: left;
+    padding-left: 184px;  
+    margin-left: 177px;
+    font-family:Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: small;
+
+
+}
+.mobile{
+    padding-left: 75px;  
+    height: 400px;
+    width: 20%;
+  float: left;
+ 
+  background-color:white;
+
+
+}
+.mainwhite
+{
+    height: 871.79px;
+    width: 1000px;
+    padding: left 15%;
+}
+.ash{
+    width: 515.67px;
+    height: 871.79px;
+    background-color:#D8E8EA;
+    margin-top: 49px;
+    margin-left: 172px;
+    text-align: center;
+    
+}
+.bussiness{
+    margin-left: 15px;
+    font-size: 32px;
+    padding-top: 60px;
+    
+}
+.bus{
+    color: #72c0ec;
+}
+.bus:hover{
+    text-decoration: underline;
+    color: #72c0ec;
+    cursor: pointer;
+    
+   
+}
+.mobe{
+    background-image: url(pic/asset\ 3.png);
+    background-size: contain;
+    width: 332px;
+    height: 364px;
+    margin-top: 226px;
+    margin-left: 92px;
+}
+.brown{
+    width: 515.67px;
+    height: 871.79px;
+    background-color:#E7F0E4;
+    margin-left: 720px;
+    margin-top:-871px;
+    text-align: center;
+   
+}
+.round{
+    margin-left: 7px;
+    height: 50%;
+    width: 90%;
+    background-image: url(./pic/Screenshot\ 2022-11-05\ 110505.png) ;
+    background-size: cover;
+    
+}
+.end{
+    margin-left: 31px;
+    margin-top: 100px;
+    font-size: medium;
+    color: rgb(92, 86, 86);
+    letter-spacing: 1px;
+}
+.default{
+    color: black;
+    margin-left: 34px;
+    font-size: 35px;
+    margin-top: 10px;
+    
+    font-weight: bolder;
+}
+.same{
+    
+    font-size: 14px;
+    }
+    .exp{
+        margin-left: 607px;
+        margin-top: 55px;
+        border-radius: 50px;
+        width: 200px;
+        height: 50px;
+        cursor: pointer;
+        color: #5fa6a3;
+        border-color: #a9e6dc;
+    background-color: white;
+    }
+    
+    .last{
+        font-size: x-small;
+        height: 407px;
+        width: 100%;
+        background-color:#353f4f;
+        margin-top: 50px;
+    }
+    .lastone{
+        width: 22%;
+        height: 350px;
+        color: white;
+        padding-left: 50px;
+        margin-left: 50px;
+        margin-top: 35px;
+        font-size: medium;
+        float: left;
+        letter-spacing: 1px;
+        cursor: pointer;
+    }
+    .lastone p:hover{
+    border-bottom: 1px solid white;
+    width: fit-content;
+    }
+    .lasttwo{
+        color: white;
+        width: 22%;
+        height: 350px;
+        float: left;
+        margin-top: 35px;
+        font-size: medium;
+        letter-spacing: 1px;
+        cursor: pointer;
+    }
+    .lasttwo p:hover{
+        border-bottom: 1px solid white;
+        width: fit-content;}
+    .lastthree{
+        color: white;
+        width: 22%;
+        height: 350px;
+        float: left;
+        margin-top: 35px;
+        font-size: medium;
+        letter-spacing: 1px;
+        cursor: pointer;
+    }
+    .lastthree p:hover{
+        border-bottom: 1px solid white;
+        width: fit-content;}
+    .lastfour{
+        color: white;
+        width: 25%;
+        height: 350px;
+        float: left;
+        margin-top: 35px;
+        font-size: medium;
+        letter-spacing: 1px;
+        cursor: pointer;
+    }
+    .lastfour p:hover{
+        border-bottom: 1px solid white;
+        width: fit-content;
+    }
+    .final{
+        height: 60px;
+        width: 100%;
+        background-color: black;
+        float: left;
+    }
+    .llc{
+        color: white;
+        font-size: small;
+        margin-left: 100px;
+    }
+    .privacy h2{
+        color: white;
+        margin-left: 1050px;
+        margin-top: -35px;
+        font-size: large;
+        cursor: pointer;
+    }
