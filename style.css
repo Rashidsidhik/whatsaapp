@@ -1,11 +1,12 @@
 .main{
     margin: 0;
+  
 }
 .header{
     width: 100%; 
     height: 74px;
     background-color: #128c7e;
-  
+    
   
 }
 .logo{
@@ -40,6 +41,7 @@
     width: 90%;
     background-color: white;
    margin: 45px;
+   
 }
 .par{
     
